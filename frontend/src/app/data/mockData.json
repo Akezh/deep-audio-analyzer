@@ -1,0 +1,57 @@
+{
+    "message": {
+      "topic": "The geography and city of Kazakhstan",
+      "questions": [
+        {
+          "question": "What is the name of the beautiful city in Kazakhstan mentioned in the text?",
+          "options": [
+            "a. Almaty",
+            "b. Astana",
+            "c. Semey",
+            "d. Shymkent"
+          ],
+          "right_option": "c"
+        },
+        {
+          "question": "Which country is home to the city of Semey?",
+          "options": [
+            "a. Uzbekistan",
+            "b. Kazakhstan",
+            "c. Kyrgyzstan",
+            "d. Tajikistan"
+          ],
+          "right_option": "b"
+        },
+        {
+          "question": "Based on the text, which quality is attributed to the city of Semey?",
+          "options": [
+            "a. It is the capital of Kazakhstan.",
+            "b. It has beautiful landscapes.",
+            "c. It is known for its historical significance.",
+            "d. It is a famous tourist destination."
+          ],
+          "right_option": "b"
+        },
+        {
+          "question": "If Semey is considered beautiful, what could possibly be a reason for visitors to come to this city?",
+          "options": [
+            "a. Its large population.",
+            "b. Its cultural festivals.",
+            "c. Its natural scenery.",
+            "d. Its political influence."
+          ],
+          "right_option": "c"
+        },
+        {
+          "question": "What can be inferred about the city of Semey based on the statement provided?",
+          "options": [
+            "a. It is a well-developed urban area.",
+            "b. It is possibly known for its natural attractions.",
+            "c. It is a leading industrial city.",
+            "d. It experiences harsh weather conditions."
+          ],
+          "right_option": "b"
+        }
+      ]
+    }
+  }
